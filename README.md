@@ -172,5 +172,5 @@ public void actionPerformed(ActionEvent e) {
 ![](https://github.com/WangHuai0511/wanghuailxx/blob/master/3.png)
 ![](https://github.com/WangHuai0511/wanghuailxx/blob/master/4.png)
 # 实验感想
-通过本次Java编程实验课，让我掌握了一些Java基本语法，虽然以前没咋学过Java，但有一些c语言基础，所以通过努力实验，进一步培养我们利用Java语言进行编程和调试程序的能力，掌握字符串String及其方法的使用和异常处理结构。但在整个实验过程中还是出现了一些错误，通过老师和同学的帮助让我逐渐完善了程序，将课本的理论知识与生活中的实践知识相结合，不断提高自己文化知识和实践能力。
+通过本次Java编程实验，掌握字符串String及其方法的使用和异常处理结构，让我了解了如何设计GUI窗体，，所以通过努力实验，进一步培养我们利用Java语言进行编程和调试程序的能力。但在整个实验过程中还是出现了一些错误，通过老师和同学的帮助让我逐渐完善了程序，将课本的理论知识与生活中的实践知识相结合，不断提高自己文化知识和实践能力。
 
