@@ -65,7 +65,7 @@ public void actionPerformed(ActionEvent e) {
 }
 ```
 # 流程图
-![](https://github.com/WangHuai0511/SHIYAN/blob/master/流程图.png)
+![](https://github.com/WangHuai0511/wanghuailxx/blob/master/流程图.png)
 # 实验结果
 ![](https://github.com/WangHuai0511/SHIYAN/blob/master/结果.jpg)
 # 实验感想
